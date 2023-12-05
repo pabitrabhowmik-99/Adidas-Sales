@@ -1,5 +1,5 @@
 # Adidas Sales Reports
-Tool Used:MS Excel
+Tool Used:Excel Pivot Table
 
 About the dataset:
 
